@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- I am currently looking for new grad full time opportunities in software engineering starting in 2025!
 - I recently completed a Software Engineering internship (May 2024 - Aug 2024) at Stryker working on Mobile Phone communication to medical beds using C++
 - I interned as a Software Engineer last summer at a healthcare stealth startup company doing full-stack and backend development
 - My top interests within software engineering are backend and full-stack development
-- I am currently looking for new grad full time opportunities in software engineering starting in 2025!
 - I am currently looking more into machine learning ( Taking a Machine Learning Research special topic course Fall 2024)
 
 - Reach me at rgiridha@umich.edu
