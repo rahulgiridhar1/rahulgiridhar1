@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - I recently completed a Software Engineering internship (May 2024 - Aug 2024) at Stryker working on Mobile Phone communication to medical beds using C++
 - I interned as a Software Engineer last summer (June 2023 - Sep 2023) at a healthcare stealth startup company doing full-stack and backend development
 - My top interests within software engineering are backend and full-stack development
-- I am currently looking more into machine learning ( Doing machine learning research Fall 2024)
+- I am currently looking more into machine learning (Doing machine learning research Fall 2024)
 
 - Reach me at rgiridha@umich.edu
